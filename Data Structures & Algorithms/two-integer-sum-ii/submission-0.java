@@ -1,3 +1,6 @@
+/**
+    Wrong Solution does not cover all the cases
+*/
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int[] result = new int[2];
